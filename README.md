@@ -1,6 +1,6 @@
 ### Hi there, I'm Bino Gabriel Fernandes 👋
 
-- 🌱 I’m currently learning Python language
+- 🌱 I’m currently learning Python language for collaborate in college scientific initiation
 - 🤓 Beyond college, I'm studying English and Spanish
 - 📩 For more information: contact me.
 <br>
