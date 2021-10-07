@@ -1,20 +1,36 @@
-### Hi there, I'm Bino Gabriel Fernandes 👋
+### Hi, I'm Gabriel Fernandes Bino 👋
 
-- 🌱 I’m currently learning Python language for collaborate in college scientific initiation
-- 🤓 Beyond college, I'm studying English and Spanish
-- 📩 For more information: contact me.
+- 🌱 I’m currently learning Python language in order to collaborate in the undergraduate research project in college
+- 🤓 Concomitantly, I'm also studying English and Spanish.
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbino&layout=compact&theme=radical)](https://github.com/gabrielbino/github-readme-stats)
 
+##
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="logo Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="logo HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="logo CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="logo Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" title="JavaScript" alt="logo Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" title="HTML" alt="logo HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" title="CSS" alt="logo CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" title="Python" alt="logo Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" title="Java" alt="logo Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" title="GIT" alt="logo GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
 ##
+
+## Languages
+
+</div>
+<div style="display: inline-block"><br>
+<img src="https://img.icons8.com/color/48/000000/brazil-circular.png" height="30" width="30" title="Português">
+<img src="https://img.icons8.com/color/48/000000/usa-circular.png" height="30" width="30" title="English">
+<img src="https://img.icons8.com/color/48/000000/spain2-circular.png" height="30" width="30" title="Español"/>
+</div>
+
+##
+
+## Contact
 
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/gabriel-fernandes-bino-456499195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
