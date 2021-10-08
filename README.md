@@ -15,7 +15,7 @@
   <img align="center" title="HTML" alt="logo HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="CSS" alt="logo CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" title="Python" alt="logo Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <!--<img align="center" title="Java" alt="logo Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">-->
+ <!-- <img align="center" title="Java" alt="logo Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> -->
   <img align="center" title="GIT" alt="logo Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div><br>
 
@@ -27,7 +27,7 @@
 <div style="display: inline-block">
 <img src="https://img.icons8.com/color/48/000000/brazil-circular.png" height="30" width="30" title="Português">
 <img src="https://img.icons8.com/color/48/000000/usa-circular.png" height="30" width="30" title="English">
-<img src="https://img.icons8.com/color/48/000000/spain2-circular.png" height="30" width="30" title="Español"/>
+<!-- <img src="https://img.icons8.com/color/48/000000/spain2-circular.png" height="30" width="30" title="Español"/> -->
 </div>
 
 ##
