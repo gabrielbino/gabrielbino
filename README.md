@@ -1,7 +1,7 @@
 ### Hi, I'm Gabriel Fernandes Bino 👋
 
 - 🌱 I’m currently learning Python language in order to collaborate in the undergraduate research project in college
-- 🤓 Concomitantly, I'm also studying English and Spanish.
+- 🤓 Concomitantly, I'm also studying English.
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbino&layout=compact&theme=radical)](https://github.com/gabrielbino/github-readme-stats)
